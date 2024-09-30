@@ -12,8 +12,8 @@ The program is menu-driven, providing an easy-to-use interface that guides users
 - **Easy-to-Use Menu:** Navigate through a simple, user-friendly interface.
 
 ## How to use
-1.  Start the Application: Run the program and enter your name to create your inventory.
+1.  Start: Run the program and enter your name to set up inventory.
 2.  Add Items: Choose "Add" to enter the name, category, and price of your makeup items.
 3.  Remove Items: Select "Remove" to delete items by entering their name.
 4.  View and Organise: Check your inventory overview or sort items into categories.
-5.  Exit: Type "done" when finished to close the program.
+5.  Exit: Type "done" to close the program.
